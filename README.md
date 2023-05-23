@@ -26,37 +26,21 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/Rust-I-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java/Kotlin](https://img.shields.io/badge/Java/Kotlin-414B53?logo=Kotlin&style=for-the-badge)
 
-</div>
-
-<div style="text-align: center;align-items: center;">
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&style=for-the-badge)
-
-❦
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white)
 
-❦
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&style=for-the-badge&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-</div>
-
-<div style="text-align: center;align-items: center;">
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-</div>
-
-<div style="text-align: center;align-items: center;">
 
 ![shell script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=)
 ![Zsh](https://img.shields.io/badge/-Zsh-273238?logo=Zsh&style=for-the-badge)
