@@ -28,19 +28,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## Frameworks
-
-<div style="text-align: center;align-items: center;">
-
-![Phoenix](https://img.shields.io/badge/-Phoenix-FF6F61?logo=Phoenix&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=)
-
-</div>
-
 ## Database
 
 <div style="text-align: center;align-items: center;">
