@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Languages and tools
+## Languages and tools
 
 <div style="text-align: center;align-items: center;">
 
@@ -28,16 +28,12 @@ Here are some ideas to get you started:
 
 </div>
 
-## Database
-
 <div style="text-align: center;align-items: center;">
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&style=for-the-badge)
 
 </div>
-
-## Deployment
 
 <div style="text-align: center;align-items: center;">
 
@@ -48,8 +44,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## Cloud Frameworks
-
 <div style="text-align: center;align-items: center;">
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&style=for-the-badge&logoColor=white)
@@ -58,8 +52,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## Operating Systems
-
 <div style="text-align: center;align-items: center;">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -67,8 +59,6 @@ Here are some ideas to get you started:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </div>
-
-## Misc
 
 <div style="text-align: center;align-items: center;">
 
