@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 </div>
 
-# Stack Overflow and GitHub stats
-
-[![Kevin's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=816296&theme=solarized-light)](https://stackoverflow.com/users/816296/pan-and-scan)
+# GitHub stats
 
 <img alt="Kevin's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=kevinkirkup&hide_title=false&theme=dracula&show_icons=true&count_private=true&hide_border=true">
