@@ -52,5 +52,6 @@ Here are some ideas to get you started:
 </div>
 
 # GitHub stats
-
-<img alt="Kevin's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=kevinkirkup&hide_title=false&theme=dracula&show_icons=true&count_private=true&hide_border=true">
+<p align="left">
+    <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinkirkup&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/>
+</p>
